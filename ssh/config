@@ -1,0 +1,9 @@
+Host kraken 
+	Hostname 5.9.14.208
+	Port 42424
+	User root
+Host squid
+	Hostname ec2-34-250-146-232.eu-west-1.compute.amazonaws.com 
+	Port 22 
+	User ubuntu
+	IdentityFile  ~/alankis.pem
